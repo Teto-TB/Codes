@@ -7,7 +7,7 @@ import urllib.request
 import os
 import time
 
-bot_token = "1389065936:AAGTdWmmGCYD9xTt9Crn4OqBZ8E6bIfvhF4"
+bot_token = ""
 
 bot = telebot.TeleBot(bot_token)
 server = Flask(__name__)
